@@ -1,6 +1,6 @@
 # Professional Profile
 
-My name is Kathrin Seibt and I'm a **bioinformatician** with a background in molecular biology. My research focus has been on comparative genomics, transposable element, and molecular markers.
+My name is Kathrin Seibt and I'm a **bioinformatician** with a background in molecular biology. My research focus has been on comparative genomics, transposable elements (repetitive DNA sequences), and molecular markers.
 
 I'm programming in **Python** and **R** and have a general interest in programming, problem solving, data mining, and visualization. 
 
@@ -21,13 +21,13 @@ Different transposable element families (x-axis) are associated to genes to a va
 
 ![transposon gene association in potato and Solanaceae](/DataViz/2-Transposon_Gene_Association.png)
 
-### 2. Visualization tool to illustrate structural sequence features
+### 3. Visualization tool to illustrate structural sequence features
 
 Cross-platform Python-tool comparing two up to multiple sequences with highly customizable shading and calculation options [Ref 2, [GitHub](https://github.com/molbio-dresden/flexidot)]. 
 
 ![FlexiDot feature illustration](/DataViz/3-FlexiDot.png)
 
-### 3. Comparative genomics analysis of transposable elements in 100 plant genomes
+### 4. Comparative genomics analysis of transposable elements in 100 plant genomes
 
 Short transposable elements showing modular similarities (*right*) and their phylogenetic distribution (*left side*)  [Ref 3]. 
 
@@ -37,6 +37,7 @@ Characterization of the copy number and similarity of all Angio-SINE families in
 
 ![general characteristics of Angio-SINEs](/DataViz/5-Angio_SINE_Characteristics.png)
 
+## References
 
 > 1. Seibt, K. M., T. Wenke, et al. (2016). *Short interspersed nuclear elements (SINEs) are abundant in Solanaceae and have a family-specific impact on gene structure and genome organization.* **Plant Journal** 86(3): 268-285. [[Weblink](https://doi.org/10.1111/tpj.13170)]
 >
