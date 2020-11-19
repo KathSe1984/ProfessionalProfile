@@ -23,19 +23,23 @@ Different transposable element families (x-axis) are associated to genes to a va
 
 ### 3. Visualization tool to illustrate structural sequence features
 
-Cross-platform Python-tool comparing two up to multiple sequences with highly customizable shading and calculation options [Ref 2, [GitHub](https://github.com/molbio-dresden/flexidot)]. 
+I developed the cross-platform Python-tool **FlexiDot** to compare DNA and protein sequences with highly customizable shading and calculation options [Ref 2, [GitHub](https://github.com/molbio-dresden/flexidot)]. According to its Altmetric score, FlexiDot is among the **top 3% of publications** in the **journal Bioinformatics**. I would like to emphasize the detailed **documentation** as supporting material to target a wide range of users. 
 
 ![FlexiDot feature illustration](/DataViz/3-FlexiDot.png)
 
 ### 4. Comparative genomics analysis of transposable elements in 100 plant genomes
 
+FlexiDot illustration of the modular similarities of the Angio-SINE families [Refs 2,3]. 
+
+![FlexiDot Illustration of Angio-SINEs](/DataViz/4-Angio_SINE_FlexiDot.png)
+
 Short transposable elements showing modular similarities (*right*) and their phylogenetic distribution (*left side*)  [Ref 3]. 
 
-![phylogenetic distribution of Angio-SINEs](/DataViz/4-Angio_SINE_Phylogeny.png)
+![phylogenetic distribution of Angio-SINEs](/DataViz/5-Angio_SINE_Phylogeny.png)
 
 Characterization of the copy number and similarity of all Angio-SINE families in the analyzed plant species [Ref 3]. 
 
-![general characteristics of Angio-SINEs](/DataViz/5-Angio_SINE_Characteristics.png)
+![general characteristics of Angio-SINEs](/DataViz/6-Angio_SINE_Characteristics.png)
 
 ## References
 
