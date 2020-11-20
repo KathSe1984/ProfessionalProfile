@@ -46,10 +46,10 @@ The different Angio-SINE families vary in the number of copies per genome (*a le
 
 ## Selected Publications
  
-<a name="myfootnote1">1.</a> Seibt, K. M., T. Wenke, et al. (2016). *Short interspersed nuclear elements (SINEs) are abundant in Solanaceae and have a family-specific impact on gene structure and genome organization.* **Plant Journal** 86(3): 268-285. [[Weblink](https://doi.org/10.1111/tpj.13170)]
+<a name="myfootnote1">1.</a> Seibt, K. M., T. Wenke, K. Muders, B. Truberg & T. Schmidt (2016). *Short interspersed nuclear elements (SINEs) are abundant in Solanaceae and have a family-specific impact on gene structure and genome organization.* **Plant Journal** 86(3): 268-285. [[Weblink](https://doi.org/10.1111/tpj.13170)]
 
-<a name="myfootnote2">2.</a> Seibt, K. M., T. Schmidt, et al. (2018). *FlexiDot: Highly customizable, ambiguity-aware dotplots for visual sequence analyses.* **Bioinformatics** 34(20): 3575-3577. [[Weblink](https://doi.org/10.1093/bioinformatics/bty395), [GitHub](https://github.com/molbio-dresden/flexidot)]
+<a name="myfootnote2">2.</a> Seibt, K. M., T. Schmidt & T. Heitkam (2018). *FlexiDot: Highly customizable, ambiguity-aware dotplots for visual sequence analyses.* **Bioinformatics** 34(20): 3575-3577. [[Weblink](https://doi.org/10.1093/bioinformatics/bty395), [GitHub](https://github.com/molbio-dresden/flexidot)]
 
-<a name="myfootnote3">3.</a>  Seibt, K. M., T. Schmidt, et al. (2019). *The conserved 3′ Angio-domain defines a superfamily of short interspersed nuclear elements (SINEs) in higher plants.* **Plant Journal** 101(3): 681–699. [[Weblink](https://doi.org/10.1111/tpj.14567)]
+<a name="myfootnote3">3.</a>  Seibt, K. M., T. Schmidt & T. Heitkam (2019). *The conserved 3′ Angio-domain defines a superfamily of short interspersed nuclear elements (SINEs) in higher plants.* **Plant Journal** 101(3): 681–699. [[Weblink](https://doi.org/10.1111/tpj.14567)]
 
 
