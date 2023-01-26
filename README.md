@@ -1,12 +1,14 @@
 # Introducing Myself
 
-My name is Kathrin Seibt and I'm a **computational biologist** with a background in molecular biology. My research focus has been on comparative genomics, transposable elements (repetitive DNA sequences), and molecular markers.
+My name is Kathrin Seibt and I'm a **computational biologist** with a background in molecular biology. My research focus has been on comparative genomics, transposable elements (repetitive DNA sequences), and molecular markers. 
 
-I am programming in **Python** and **R** and have a general interest in programming, problem solving, data mining, and visualization. In order to utilize various software tools and integrate command line tools, I am used to working both in a **Windows** and a **Linux** environment. Consequently, I particularly appreciate cross-platform tools. For data visualization and documentation, I use common packages such as **matplotlib**, **ggplot2** and **RMarkDown**. 
+I am programming in **Python** and **R** and have a general interest in problem solving, data mining, and visualization. In order to utilize various software tools and integrate command line tools, I am used to working both in a **Windows** and a **Linux** environment. Consequently, I particularly appreciate cross-platform tools. For data visualization and documentation I use common packages such as **matplotlib**, **ggplot2** and **RMarkDown**. 
 
-Due to my previous research on repetitive DNA sequences, I am used to handling **large amounts of data**, design analyses and workflows, as well as apply **analytical** and **rational** criteria in order to solve challenging tasks. In this context, I **enjoy learning** and quickly integrate new technologies. I would describe myself as a curious, **intrinsically motivated** and **open-minded** person. In general, I love to work in a motivated and dedicated **team**, but I also appreciate diving into data **self-dependently**. To be able to reproduce and share my work, I value **documentation** to log workflows, record important resources or tools, and summarize results. I **routinely present** my data in **publications** and **talks** targeting different audiences and also use **social media** ([Twitter](https://twitter.com/kathse1984)) to share publications with the public.
+Due to my previous research on repetitive DNA sequences, I am used to handling **large amounts of data**, design analyses and workflows, as well as apply **analytical** and **rational** criteria in order to solve challenging tasks. In this context, I **enjoy learning** and quickly integrate new technologies. I would describe myself as a curious, **intrinsically motivated** and **open-minded** person. In general, I love to work in a motivated and dedicated **team**, but I also appreciate diving into data **self-dependently**. To be able to reproduce and share my work, I value **documentation** to log workflows, record important resources or tools, and summarize results. I **routinely present** my data in **publications** and **talks** targeting different audiences and also used **social media** ([Twitter](https://twitter.com/kathse1984)) to share publications with the public.
 
-For more information regarding my professional profile, please see my [CV](./CV/).
+After my career break for **maternity leave** I am now **looking for a new position**. I am keen to address challenging tasks, acquire novel skills, and integrate new technologies.
+
+For further information regarding my professional profile, please see my [CV](./CV/).
 
 # Introducing My Visualizations
 
