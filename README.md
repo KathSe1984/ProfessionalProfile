@@ -2,7 +2,7 @@
 
 My name is Kathrin Seibt and I'm a **computational biologist** with a background in molecular biology. My research focus has been on comparative genomics, transposable elements (repetitive DNA sequences), and molecular markers. 
 
-In the laboratory I've been routinely conducting **molecular experiments** including DNA extraction, PCR, electrophoresis, and DNA sequencing - particularly in the context of molecular markers. Due to a high amount of samples I am used to planning, executing, documenting, and interpreting *large-scale experiments*. Besides, I have also applied a wide variety of other laboratory techniques in the fields of molecular biology, microbiology, and analytical chemistry.
+In the laboratory I've been routinely conducting **molecular experiments** including DNA extraction, PCR, electrophoresis, and DNA sequencing - particularly in the context of molecular markers. Due to a high amount of samples I am used to planning, executing, documenting, and interpreting **large-scale experiments**. Besides, I have also applied a wide variety of other laboratory techniques in the fields of molecular biology, microbiology, and analytical chemistry.
 
 I am programming in **Python** and **R** and have a general interest in problem solving, data mining, and visualization. In order to utilize various software tools and integrate command line tools, I am used to working both in a **Windows** and a **Linux** environment. Consequently, I particularly appreciate cross-platform tools. For data visualization and documentation I use common packages such as **matplotlib**, **ggplot2** and **RMarkDown**. 
 
