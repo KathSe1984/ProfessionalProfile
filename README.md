@@ -17,6 +17,13 @@ For further information regarding my professional profile, please see my [CV](./
 I enjoy **data mining** and love to create **visualizations** that reveal and illustrate interesting findings. I want to highlight my recently developed cross-platform bioinformatic visualization tool **FlexiDot** available on [GitHub](https://github.com/molbio-dresden/flexidot).
 
 To give you an impression of my work, I want to present some illustrations from my recent publications. 
+- [characterization of repetitive sequences in nightshade plant](https://github.com/KathSe1984/ProfessionalProfile/#1-short-transposable-elements-are-associated-with-genes-in-nightshade-plants)
+- [my FlexiDot tool for visual sequence comparisons](https://github.com/KathSe1984/ProfessionalProfile/#2-visualization-tool-to-illustrate-structural-sequence-features)
+- [sequence analyses across 100 plant genomes](https://github.com/KathSe1984/ProfessionalProfile/#3-comparative-genomics-analysis-of-transposable-elements-in-100-plant-genomes)
+
+I also use programming for private tasks. For example, we've been travelling across southern Europe during our parental leave. Using R and Python, I created a map to illustrate our journey.
+
+- [private travel journey](https://github.com/KathSe1984/ProfessionalProfile/#4-our-paternal-leave-journey)
 
 ## 1. Short transposable elements are associated with genes in nightshade plants
 
@@ -47,6 +54,12 @@ This schematic representation illustrates the modular similarities between the d
 The different Angio-SINE families vary in the number of copies per genome (*a left, b*), the similarity of the copies within the genome (*a right*) as well as the frequency, in which they are located in annotated genes (*c*).<sup>[3](#myfootnote3)</sup> 
 
 <img src="./DataViz/6-Angio_SINE_Characteristics.png" alt="general characteristics of Angio-SINEs" width="750"/>
+
+## 4. Our paternal leave journey
+
+During our parental leave in 2022 we made a unique trip across southern Europe. Thus, we organized and planned everything for our 77 day journey across Germany, Austria, Hungaria, Croatia, Bosnia, and Italy.
+
+<img src="./DataViz/7-Journey_Map.png" alt="Travel route for our parental leave in 2022" width="450"/>
 
 # References
 
