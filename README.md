@@ -21,6 +21,10 @@ To give you an impression of my work, I want to present some illustrations from 
 - [my FlexiDot tool for visual sequence comparisons](https://github.com/KathSe1984/ProfessionalProfile/#2-visualization-tool-to-illustrate-structural-sequence-features)
 - [sequence analyses across 100 plant genomes](https://github.com/KathSe1984/ProfessionalProfile/#3-comparative-genomics-analysis-of-transposable-elements-in-100-plant-genomes)
 
+Despite data analyses, I also enjoy creating schematic figures. For this, I use combined approaches with Python, R and Inkscape.
+
+- [schematic representations of evolutionary mechanisms](https://github.com/KathSe1984/ProfessionalProfile/#4-schematic-figures-using-inkscape)
+
 I also use programming for private tasks. For example, we've been travelling across southern Europe during our parental leave. Using R and Python, I created a map to illustrate our journey.
 
 - [private travel journey](https://github.com/KathSe1984/ProfessionalProfile/#4-our-paternal-leave-journey)
@@ -55,11 +59,18 @@ The different Angio-SINE families vary in the number of copies per genome (*a le
 
 <img src="./DataViz/6-Angio_SINE_Characteristics.png" alt="general characteristics of Angio-SINEs" width="750"/>
 
-## 4. Our parental leave journey
+## 4. Schematic figures using Inkscape
+
+Here, I illustrated two evolutionary scenarios. The first one depicts a mechanism for genomic changes by transposable elements<sup>[1](#myfootnote1)</sup>, the other one summarizes the evolutionary life cycle of a LINE and SINE transposons.
+
+<img src="./DataViz/7-Mechanism_SINE_LINE.png" alt="SINE-mediated sequence transduction" width="750"/>
+<img src="./DataViz/8-SINE-Transduction.png" alt="life cycle of SINE and LINE transposons" width="750"/>
+
+## 5. Our parental leave journey visualized with Python & R
 
 During our parental leave in 2022 we made a unique trip across southern Europe. Thus, we organized and planned everything for our 77 day journey across Germany, Austria, Hungaria, Croatia, Bosnia, and Italy.
 
-<img src="./DataViz/7-Journey_Map.png" alt="Travel route for our parental leave in 2022" width="450"/>
+<img src="./DataViz/9-Journey_Map.png" alt="Travel route for our parental leave in 2022" width="450"/>
 
 # References
 
