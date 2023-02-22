@@ -55,7 +55,7 @@ The different Angio-SINE families vary in the number of copies per genome (*a le
 
 <img src="./DataViz/6-Angio_SINE_Characteristics.png" alt="general characteristics of Angio-SINEs" width="750"/>
 
-## 4. Our paternal leave journey
+## 4. Our parental leave journey
 
 During our parental leave in 2022 we made a unique trip across southern Europe. Thus, we organized and planned everything for our 77 day journey across Germany, Austria, Hungaria, Croatia, Bosnia, and Italy.
 
