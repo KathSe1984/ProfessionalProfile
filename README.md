@@ -52,7 +52,7 @@ I developed the cross-platform Python-tool **FlexiDot**<sup>[2](#myfootnote2)</s
 
 <img src="./DataViz/3-FlexiDot.png" alt="FlexiDot feature illustration" width="750"/>
 
-I was able to use our new tool to identify and illustrate modular similarities of short transposon families (Angio-SINEs) across a wide variety plant species.<sup>[2](#myfootnote2)</sup><sup>,</sup><sup>[3](#myfootnote3)</sup> 
+I was able to use our new tool to identify and illustrate modular similarities of short transposon families (Angio-SINEs) across a wide variety plant species. Here, the dotplot depicting the modularity is complemented by a heatmap of the sequence similarities.<sup>[2](#myfootnote2)</sup><sup>,</sup><sup>[3](#myfootnote3)</sup> 
 
 <img src="./DataViz/4-Angio_SINE_FlexiDot.png" alt="FlexiDot illustration of Angio-SINEs" width="750"/>
 
