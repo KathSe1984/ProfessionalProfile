@@ -17,9 +17,10 @@ For further information regarding my professional profile, please see my [CV](./
 I enjoy **data mining** and love to create **visualizations** that reveal and illustrate interesting findings. I want to highlight my recently developed cross-platform bioinformatic visualization tool **FlexiDot** available on [GitHub](https://github.com/molbio-dresden/flexidot).
 
 To give you an impression of my work, I want to present some illustrations from my recent publications. 
-- [characterization of repetitive sequences in nightshade plant](https://github.com/KathSe1984/ProfessionalProfile/#1-short-transposable-elements-are-associated-with-genes-in-nightshade-plants)
-- [my FlexiDot tool for visual sequence comparisons](https://github.com/KathSe1984/ProfessionalProfile/#2-visualization-tool-to-illustrate-structural-sequence-features)
-- [sequence analyses across 100 plant genomes](https://github.com/KathSe1984/ProfessionalProfile/#3-comparative-genomics-analysis-of-transposable-elements-in-100-plant-genomes)
+- [sequence analyses across 100 plant genomes](https://github.com/KathSe1984/ProfessionalProfile/#1-comparative-genomics-analysis-of-transposable-elements-in-100-plant-genomes)
+- [chromosomal localization of repetitive sequences in nightshade plant](https://github.com/KathSe1984/ProfessionalProfile/#2-localization-of-short-transposable-elements-in-nightshade-plants)
+- [my FlexiDot tool for visual sequence comparisons](https://github.com/KathSe1984/ProfessionalProfile/#3-visualization-tool-to-illustrate-structural-sequence-features)
+
 
 Despite data analyses, I also enjoy creating schematic figures. For this, I use combined approaches with Python, R and Inkscape.
 
@@ -29,19 +30,25 @@ I also use programming for private tasks. For example, we've been travelling acr
 
 - [private travel journey](https://github.com/KathSe1984/ProfessionalProfile/#4-our-paternal-leave-journey)
 
-## 1. Short transposable elements are associated with genes in nightshade plants
+## 1. Comparative genomics analysis of transposable elements in 100 plant genomes
 
-The distribution of short interspersed nuclear elements (SINEs, *left*) on the twelve tomato chromosomes is highly similar to the distribution of the annotated genes (*right*).<sup>[1](#myfootnote1)</sup>
+This schematic representation created with **Inkscape and Python scripting** illustrates the modular similarities between the different families of short transposable elements (*right*) and links them to the plant orders they were identified in (*left side*).<sup>[3](#myfootnote3)</sup>
 
-<img src="./DataViz/1-Tomato_Transposon_Gene_Heatmap.png" alt="transposon localization in tomato" width="750"/>
+<img src="./DataViz/5-Angio_SINE_Phylogeny.png" alt="phylogenetic distribution of Angio-SINEs" width="750"/>
 
-Different families of these transposable element (x-axis) are associated to genes to a varying degree in potato (*a*) and, consistently, in the analyzed nightshade plants in general (*b*).<sup>[1](#myfootnote1)</sup>
+This **R analysis** summarizes the varing in the number of copies per genome for the different Angio-SINE families (*a left, b*) as well as the similarity of the copies to each other within the genome (*a right*). The phylogenetic relationships of the Angio-SINE families are illustrated as **SplitsTree network** (*c*).<sup>[3](#myfootnote3)</sup> 
 
-<img src="./DataViz/2-Transposon_Gene_Association.png" alt="transposon gene association in potato and Solanaceae" width="750"/>
+<img src="./DataViz/6-Angio_SINE_Characteristics_Tree.png" alt="general characteristics of Angio-SINEs" width="750"/>
 
-## 2. Visualization tool to illustrate structural sequence features
+## 2. Localization of short transposable elements in nightshade plants
 
-I developed the cross-platform Python-tool **FlexiDot**<sup>[2](#myfootnote2)</sup> to compare DNA and protein sequences with highly customizable shading and calculation options. FlexiDot is available on [GitHub](https://github.com/molbio-dresden/flexidot)] and according to its Altmetric score it is among the **top 3% of publications** in the **journal Bioinformatics**. I would like to emphasize the detailed **documentation** as supporting material to target a wide range of users. 
+The **R heatmap** confirms that the distribution of the 13.903 short interspersed nuclear elements (SINEs, *left*) on the twelve potato chromosomes is highly similar to the distribution of the annotated genes (*right*). In fact, 10% of the described Solanaceae genes harbor at least one SINE copy.<sup>[1](#myfootnote1)</sup>
+
+<img src="./DataViz/1-Transposon_Gene_Heatmap_Potato.png" alt="transposon localization in potato" width="750"/>
+
+## 3. Visualization tool to illustrate structural sequence features
+
+I developed the cross-platform Python-tool **FlexiDot**<sup>[2](#myfootnote2)</sup> to compare DNA and protein sequences providing highly customizable shading and calculation options. FlexiDot is available on [GitHub](https://github.com/molbio-dresden/flexidot)] and according to its [Altmetric score](https://oxfordjournals.altmetric.com/details/41360826) it is among the **top 5% of publications** in the **journal Bioinformatics**. I would like to emphasize the detailed **documentation** as supporting material to target a wide range of users. 
 
 <img src="./DataViz/3-FlexiDot.png" alt="FlexiDot feature illustration" width="750"/>
 
@@ -49,21 +56,11 @@ I was able to use our new tool to identify and illustrate modular similarities o
 
 <img src="./DataViz/4-Angio_SINE_FlexiDot.png" alt="FlexiDot illustration of Angio-SINEs" width="750"/>
 
-## 3. Comparative genomics analysis of transposable elements in 100 plant genomes
-
-This schematic representation illustrates the modular similarities between the different families of short transposable elements (*right*) and links them to the plant orders they were identified in (*left side*).<sup>[3](#myfootnote3)</sup>
-
-<img src="./DataViz/5-Angio_SINE_Phylogeny.png" alt="phylogenetic distribution of Angio-SINEs" width="750"/>
-
-The different Angio-SINE families vary in the number of copies per genome (*a left, b*), the similarity of the copies within the genome (*a right*) as well as the frequency, in which they are located in annotated genes (*c*).<sup>[3](#myfootnote3)</sup> 
-
-<img src="./DataViz/6-Angio_SINE_Characteristics.png" alt="general characteristics of Angio-SINEs" width="750"/>
-
 ## 4. Schematic figures using Inkscape
 
 Here, I illustrated two evolutionary scenarios. The first one depicts a mechanism for genomic changes by transposable elements<sup>[1](#myfootnote1)</sup>, the other one summarizes the evolutionary life cycle of a LINE and SINE transposons.
 
-<img src="./DataViz/7-Mechanism_SINE_LINE.png" alt="SINE-mediated sequence transduction" width="750"/>
+<img src="./DataViz/7-Mechanism_SINE_LINE_white.png" alt="SINE-mediated sequence transduction" width="750"/>
 <img src="./DataViz/8-SINE-Transduction.png" alt="life cycle of SINE and LINE transposons" width="750"/>
 
 ## 5. Our parental leave journey visualized with Python & R
