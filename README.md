@@ -57,10 +57,13 @@ I was able to use our FlexiDot tool to identify and illustrate modular similarit
 
 ## 4. Schematic figures using Inkscape
 
-In this illustration I show two evolutionary scenarios: The first one depicts a mechanism for genomic changes by transposable elements<sup>[1](#myfootnote1)</sup>, the other one summarizes the evolutionary life cycle of a LINE and SINE transposons.
+In this illustration I show two evolutionary scenarios: This figure summarizes the evolutionary life cycle of a LINE and SINE transposons. <sup>[1](#myfootnote1)</sup> 
 
-<img src="./DataViz/7-Mechanism_SINE_LINE_white.png" alt="SINE-mediated sequence transduction" width="750"/>
-<img src="./DataViz/8-SINE-Transduction.png" alt="life cycle of SINE and LINE transposons" width="750"/>
+<img src="./DataViz/7-Mechanism_SINE_LINE_white.png" alt="life cycle of SINE and LINE transposons" width="750"/>
+
+This one depicts a mechanism for genomic changes by transposable elements.
+
+<img src="./DataViz/8-SINE-Transduction.png" alt="SINE-mediated sequence transduction" width="750"/>
 
 ## 5. Our parental leave journey visualized with Python & R
 
