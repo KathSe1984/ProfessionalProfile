@@ -1,5 +1,7 @@
 # Introducing Myself
 
+<img src="./DataViz/0-WordCloud.png" alt="my wordcloud" width="750"/>
+
 My name is Kathrin Seibt and I'm a **computational biologist** with a background in molecular biology. My research focus has been on comparative genomics, transposable elements (repetitive DNA sequences), and molecular markers. 
 
 In the laboratory I've been routinely conducting **molecular experiments** including DNA extraction, PCR, electrophoresis, and DNA sequencing - particularly in the context of molecular markers. Due to a high amount of samples I am used to planning, executing, documenting, and interpreting **large-scale experiments**. Besides, I have also applied a wide variety of other laboratory techniques in the fields of molecular biology, microbiology, and analytical chemistry.
