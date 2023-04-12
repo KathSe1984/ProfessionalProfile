@@ -49,7 +49,7 @@ The **R heatmap** confirms that the distribution of the 13.903 short intersperse
 
 ## 3. Visualization tool to illustrate structural sequence features
 
-I developed the cross-platform Python tool **FlexiDot**<sup>[2](#myfootnote2)</sup> to compare DNA and protein sequences. FlexiDot provides highly customizable shading and calculation options. It is available on [GitHub](https://github.com/molbio-dresden/flexidot)] and according to its [Altmetric score](https://oxfordjournals.altmetric.com/details/41360826) FlexiDot is ranked among the **top 5% of publications** in the **journal Bioinformatics**. I would like to emphasize the detailed **documentation** provided as supporting material to target a wide range of users. 
+I developed the cross-platform Python tool **FlexiDot**<sup>[2](#myfootnote2)</sup> to compare DNA and protein sequences. FlexiDot provides highly customizable shading and calculation options. It is available on [GitHub](https://github.com/molbio-dresden/flexidot) and according to its [Altmetric score](https://oxfordjournals.altmetric.com/details/41360826) FlexiDot is ranked among the **top 5% of publications** in the **journal Bioinformatics**. I would like to emphasize the detailed **documentation** provided as supporting material to target a wide range of users. 
 
 <p align="center"> <img src="./DataViz/3-FlexiDot.png" alt="FlexiDot feature illustration" width="750"/> </p>
 
